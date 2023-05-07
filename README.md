@@ -8,13 +8,9 @@ Human Development Index (HDI) is a widely used measure to assess the quality of 
 
 This tool uses data from the OpenStreetMap project, which provides a vast amount of geographical data.
 
-### Repositories:
-- https://github.com/opentechcommunity/open-geolens-client
-- https://github.com/opentechcommunity/open-geolens-api
-
-### Modules:
-- Data Visualization
-- Geo-spatial Data Calculation And Analysis
-- Data Management
-- API Service
-- User Interface
+### Modules & Repositories:
+- API Service: https://github.com/opentechcommunity/open-geolens-api
+- User Interface: https://github.com/opentechcommunity/open-geolens-client
+- Data Visualization: https://github.com/opentechcommunity/open-geolens-data-visualization
+- Geo-spatial Data Calculation And Analysis: https://github.com/opentechcommunity/open-geolens-maths
+- Data Management: https://github.com/opentechcommunity/open-geolens-data-management
