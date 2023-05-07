@@ -7,3 +7,7 @@ This tool is to provide a comprehensive and intuitive view of the well being in 
 Human Development Index (HDI) is a widely used measure to assess the quality of life in different regions of the world. HDI is calculated based on three factors, namely life expectancy, education, and income. However, HDI alone may not provide a complete picture of the well-being in a given region. Happiness, which is another important factor.
 
 This tool uses data from the OpenStreetMap project, which provides a vast amount of geographical data.
+
+Repositories:
+https://github.com/opentechcommunity/open-geolens-client
+https://github.com/opentechcommunity/open-geolens-api
