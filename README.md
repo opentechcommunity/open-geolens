@@ -11,3 +11,10 @@ This tool uses data from the OpenStreetMap project, which provides a vast amount
 ### Repositories:
 - https://github.com/opentechcommunity/open-geolens-client
 - https://github.com/opentechcommunity/open-geolens-api
+
+### Modules:
+- Data Visualization
+- Geo-spatial Data Calculation And Analysis
+- Data Management
+- API Service
+- User Interface
