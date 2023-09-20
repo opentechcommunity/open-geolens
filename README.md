@@ -12,5 +12,5 @@ This tool uses data from the OpenStreetMap project, which provides a vast amount
 - API Service: https://github.com/opentechcommunity/open-geolens-api
 - User Interface: https://github.com/opentechcommunity/open-geolens-client
 - Data Visualization: https://github.com/opentechcommunity/open-geolens-data-visualization
-- Geo-spatial Data Calculation And Analysis: https://github.com/opentechcommunity/open-geolens-maths
+- Geo-spatial Data Calculation And Analysis: https://github.com/opentechcommunity/open-geolens-compute
 - Data Management: https://github.com/opentechcommunity/open-geolens-data-management
