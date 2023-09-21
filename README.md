@@ -2,7 +2,7 @@
 
 Open GeoLens is an open-source geo-spatial data analysis tool that focuses on informing location based "well-being". In general terms, we could say that the goal is to find the best place where you want to live for your well-being. What we call as development has to produce well-being for people and it must the prior goal of development. For creating well-being in a geographical area, we need some geo-spatial insight and Open GeoLens is the tool that informs you in the best way.
 
-This tool is to provide a comprehensive and intuitive view of the "well-being" in a given region. By analyzing the infrastructure and amenities available within a geographical boundary, this tool can correlate the HDI and happiness factors to provide a more accurate picture of "well-being". The tool will enable sustainable development initiatives to identify areas for improvement and help businesses to find best places to expand their services.
+This tool is to provide a comprehensive and intuitive view of the "well-being" in a given region. By analyzing the infrastructure and amenities available within a geographical boundary, this tool compares the insights to HDI and happiness factors to provide a more accurate picture of "well-being". The tool will enable sustainable development initiatives to identify areas for improvement and help businesses to find best places to expand their services.
 
 Human Development Index (HDI) is a widely used measure to assess the quality of life in different regions of the world. HDI is calculated based on three factors, namely life expectancy, education, and income. However, HDI alone may not provide a complete picture of the "well-being" in a given region. So, happiness is another important factor that we are using in this project.
 
