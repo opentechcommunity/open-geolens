@@ -14,3 +14,4 @@ This tool uses data from the OpenStreetMap project, which provides a vast amount
 - Data Visualization: https://github.com/opentechcommunity/open-geolens-data-visualization
 - Geo-spatial Data Calculation And Analysis: https://github.com/opentechcommunity/open-geolens-compute
 - Data Management: https://github.com/opentechcommunity/open-geolens-data-management
+- Research Notes: https://github.com/opentechcommunity/open-geolens-research-notes
