@@ -1,6 +1,6 @@
 # open-geolens
 
-Open GeoLens is an open-source geo-spatial data analysis tool that focuses on informing location based "well-being". In general terms, we could say that the goal is to find the best place where you want to live for your well-being. What we call as development has to produce well-being for people and it must the prior goal of development. For creating well-being in a geographical area, we need some geo-spatial insight and Open GeoLens is the tool that informs you in the best way.
+Open GeoLens is an open-source geo-spatial data analysis tool that focuses on informing location based "well-being". In layman's term, the goal is to find the best place where you want to live for your well-being. In other words, this tool will provide insight to people and organizations working in development. What we call as development has to produce well-being for people and it must the prior goal of development. For creating well-being in a geographical area, we need some geo-spatial insight and Open GeoLens is the tool that informs you in the best way.
 
 This tool is to provide a comprehensive and intuitive view of the "well-being" in a given region. By analyzing the infrastructure and amenities available within a geographical boundary, this tool compares the insights to HDI and happiness factors to provide a more accurate picture of "well-being". The tool will enable sustainable development initiatives to identify areas for improvement and help businesses to find best places to expand their services.
 
